@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LengthConvert</string>
+    <string-array name="DropDownImperialItems">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+    </string-array>
+    <string-array name="DropDownMetricItems">
+        <item>Centimetre</item>
+        <item>Meter</item>
+    </string-array>
+</resources>
